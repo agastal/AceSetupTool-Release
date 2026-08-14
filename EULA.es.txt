@@ -1,0 +1,151 @@
+ACE SETUP TOOL — CONTRATO DE LICENCIA PARA EL USUARIO FINAL (EULA)
+TRADUCCIÓN ESPAÑOLA DE CORTESÍA
+
+Versión 1 — 2026
+
+Esta traducción se proporciona para facilitar la consulta. En caso de discrepancia no
+intencionada, prevalecerá el texto inglés de EULA.en.txt en la medida permitida por la
+legislación aplicable.
+
+IMPORTANTE: LEE ESTE CONTRATO ANTES DE INSTALAR O UTILIZAR ACE SETUP TOOL.
+AL INSTALAR, COPIAR O UTILIZAR EL SOFTWARE, ACEPTAS ESTAS CONDICIONES. SI NO LAS
+ACEPTAS, NO INSTALES NI UTILICES EL SOFTWARE Y ELIMINA TODAS SUS COPIAS.
+
+1. PARTES Y DEFINICIONES
+
+“Autor” o “Licenciante” designa a Adriano Gastaldello, la persona física que publica ACE
+Setup Tool a través de su repositorio oficial de GitHub. El Autor es una persona física,
+no una empresa.
+“Software” designa ACE Setup Tool en forma binaria, su documentación y cualquier
+actualización proporcionada por el Autor. “Repositorio oficial” designa el repositorio
+de GitHub identificado como oficial en la documentación que acompaña al Software.
+
+2. CONCESIÓN GRATUITA DE LICENCIA
+
+Con sujeción a este Contrato, el Autor te concede gratuitamente una licencia limitada,
+no exclusiva, intransferible, no sublicenciable y revocable para instalar y utilizar
+copias binarias oficiales y sin modificar del Software en dispositivos bajo tu control,
+para fines personales o profesionales lícitos. Puedes realizar una copia de seguridad
+razonable con fines de recuperación, siempre que mantengas intactos todos los avisos
+legales.
+
+El Software se concede bajo licencia, no se vende. No se transfiere ningún derecho de
+propiedad ni sobre el código fuente.
+
+3. RESTRICCIONES
+
+Salvo autorización previa y por escrito del Autor, no puedes:
+(a) redistribuir, replicar en espejos, volver a publicar, cargar o poner el Software a
+    disposición de terceros, incluso como parte de otro producto o servicio;
+(b) vender, alquilar, arrendar, prestar, sublicenciar o cobrar por el acceso al Software;
+(c) modificar, adaptar, traducir o crear obras derivadas del Software;
+(d) descompilar, desensamblar, realizar ingeniería inversa o intentar descubrir código
+    fuente, algoritmos, protocolos o estructuras internas;
+(e) eludir restricciones técnicas o utilizar el Software de forma ilícita; o
+(f) eliminar o alterar avisos de copyright, licencia, marca o atribución.
+
+Estas restricciones no se aplican en la medida en que una norma imperativa reconozca
+expresamente un derecho que no pueda excluirse por contrato. Cuando la ley lo exija,
+debes solicitar primero al Autor la información necesaria para la interoperabilidad y
+utilizar la información permitida únicamente para esa finalidad legal.
+
+4. DISTRIBUCIÓN OFICIAL Y ACTUALIZACIONES
+
+GitHub Releases en el Repositorio oficial es el único canal público autorizado. No
+confíes en copias obtenidas de espejos o terceros no autorizados. El Autor puede
+modificar, suspender o interrumpir el Software o su disponibilidad en cualquier
+momento. Las actualizaciones pueden añadir, eliminar o modificar funciones y estar
+sujetas a estas condiciones o a condiciones sustitutivas presentadas con la
+actualización.
+
+5. TITULARIDAD
+
+El Autor conserva todos los derechos e intereses sobre el Software, su diseño, sus
+signos distintivos y su documentación, salvo los componentes de terceros. Quedan
+reservados todos los derechos no concedidos expresamente. La disponibilidad gratuita
+no convierte el Software en dominio público ni en software de código abierto.
+
+6. COMPONENTES DE TERCEROS
+
+El Software incluye componentes licenciados por terceros, incluidos Microsoft y otros
+proveedores. Sus avisos y condiciones de licencia se indican en
+THIRD-PARTY-NOTICES.txt y en el directorio third-party adjunto. Dichas condiciones
+prevalecen para los componentes correspondientes cuando concedan derechos o impongan
+requisitos distintos de este Contrato.
+
+No recibes ningún derecho para utilizar nombres, logotipos o marcas de Microsoft ni de
+otros proveedores. En la medida máxima permitida por la ley, Microsoft y los demás
+proveedores: (i) proporcionan sus componentes “TAL CUAL”, sin garantías, condiciones ni
+soporte; (ii) no son responsables frente a ti por reclamaciones o daños derivados de
+dichos componentes; y (iii) son terceros beneficiarios de las restricciones y
+protecciones de este Contrato en la medida exigida por sus licencias. Este Contrato no
+concede sobre un componente de terceros derechos más amplios que los permitidos por su
+propia licencia.
+
+7. ARCHIVOS, DATOS Y COPIAS DE SEGURIDAD DEL USUARIO
+
+El Software procesa archivos de reglaje y telemetría seleccionados o generados en tu
+dispositivo y guarda en él su configuración y base de datos local. Eres responsable de
+realizar copias de seguridad y comprobar los resultados antes de confiar en ellos. El
+Software no es un servicio de copia de seguridad. No envíes datos confidenciales o
+personales a una Issue o canal de soporte público salvo que quieras hacerlos públicos.
+
+8. COMPATIBILIDAD CON EL JUEGO; AUSENCIA DE AFILIACIÓN
+
+El Software es una utilidad independiente y no oficial. No está afiliado, aprobado ni
+respaldado por Kunos Simulazioni ni por el editor de Assetto Corsa EVO. Los nombres de
+productos y las marcas pertenecen a sus propietarios. Las actualizaciones del juego
+pueden cambiar formatos o comportamientos y hacer que el Software sea inexacto o
+incompatible. Eres responsable de cumplir las condiciones del juego y de conservar
+copias de seguridad antes de que el Software modifique cualquier archivo.
+
+9. AUSENCIA DE GARANTÍAS
+
+EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEGISLACIÓN APLICABLE, EL SOFTWARE, LA
+DOCUMENTACIÓN, LAS ACTUALIZACIONES Y EL SOPORTE SE PROPORCIONAN “TAL CUAL” Y “SEGÚN
+DISPONIBILIDAD”, CON TODOS SUS DEFECTOS Y SIN GARANTÍAS NI CONDICIONES EXPRESAS,
+IMPLÍCITAS O LEGALES, INCLUIDAS COMERCIABILIDAD, CALIDAD SATISFACTORIA, IDONEIDAD PARA
+UN FIN DETERMINADO, EXACTITUD, NO INFRACCIÓN, DISPONIBILIDAD Y FUNCIONAMIENTO SIN
+ERRORES. EL AUTOR NO GARANTIZA TIEMPOS POR VUELTA, RENDIMIENTO DEL VEHÍCULO,
+COMPATIBILIDAD, CONSERVACIÓN DE DATOS NI RESULTADOS CORRECTOS.
+
+10. LIMITACIÓN DE RESPONSABILIDAD
+
+EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEGISLACIÓN APLICABLE, EL AUTOR Y LOS PROVEEDORES
+DE TERCEROS NO SERÁN RESPONSABLES DE DAÑOS INDIRECTOS, INCIDENTALES, ESPECIALES,
+CONSECUENTES, EJEMPLARES O PUNITIVOS, NI DE LA PÉRDIDA DE DATOS, REGLAJES, TELEMETRÍA,
+BENEFICIOS, NEGOCIO, REPUTACIÓN U OPORTUNIDADES, DERIVADA DEL SOFTWARE O RELACIONADA
+CON ÉL, INCLUSO SI SE LES ADVIRTIÓ DE DICHA POSIBILIDAD. CUANDO LA RESPONSABILIDAD NO
+PUEDA EXCLUIRSE LEGALMENTE, QUEDARÁ LIMITADA ÚNICAMENTE EN LA MEDIDA PERMITIDA POR LA
+LEY APLICABLE.
+
+11. DERECHOS IMPERATIVOS
+
+Nada en este Contrato excluye o limita derechos, recursos, garantías o responsabilidades
+que la legislación aplicable no permita excluir o limitar, incluidos los derechos
+imperativos de los consumidores. Los apartados 9 y 10 se aplican únicamente en la
+medida en que sean lícitos en tu jurisdicción.
+
+12. DURACIÓN Y TERMINACIÓN
+
+Este Contrato permanecerá vigente hasta su terminación. La licencia finalizará
+automáticamente si incumples de forma sustancial sus condiciones. Al finalizarla,
+debes dejar de utilizar el Software y eliminar todas las copias bajo tu posesión o
+control, salvo las que la ley aplicable te obligue a conservar. Las cláusulas sobre
+titularidad, terceros, garantías, responsabilidad e interpretación sobrevivirán a la
+terminación.
+
+13. DISPOSICIONES GENERALES
+
+Si una disposición no fuera exigible, se limitará o eliminará únicamente en la medida
+mínima necesaria y las restantes seguirán vigentes. La falta de aplicación de una
+disposición no constituye renuncia. No puedes ceder este Contrato sin autorización
+escrita del Autor. Este Contrato, LICENSE.txt y las condiciones aplicables de terceros
+constituyen el acuerdo completo relativo al Software y sustituyen declaraciones
+anteriores sobre la misma materia. Este Contrato no elige un tribunal, foro ni derecho
+aplicable concreto; las normas imperativas aplicables determinarán dichas cuestiones.
+
+14. CONTACTO
+
+Utiliza las Issues o el canal indicado en el Repositorio oficial. No envíes telemetría,
+archivos de reglaje, registros ni datos personales mediante una Issue pública.

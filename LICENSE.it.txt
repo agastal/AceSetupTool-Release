@@ -1,0 +1,41 @@
+ACE SETUP TOOL — AVVISO DI LICENZA FREEWARE PROPRIETARIA
+TRADUZIONE ITALIANA DI CORTESIA
+
+Questa traduzione facilita la consultazione. In caso di divergenza non intenzionale,
+il testo inglese di LICENSE.txt prevale nei limiti consentiti dalla legge applicabile.
+
+Copyright © 2026 Adriano Gastaldello.
+Tutti i diritti riservati.
+
+Nel presente avviso, “Autore” indica Adriano Gastaldello, la persona fisica che pubblica
+ACE Setup Tool tramite il relativo repository GitHub ufficiale. L'Autore non è presentato
+come un'azienda.
+
+ACE Setup Tool è freeware proprietario. L'Autore concede agli utenti finali il permesso
+di scaricare, installare e usare gratuitamente copie binarie ufficiali e non modificate,
+nel rispetto del Contratto di licenza con l'utente finale (EULA.it.txt) fornito con il
+Software.
+
+Nessun codice sorgente viene concesso in licenza o distribuito. Salvo quanto previsto
+dalla EULA o da norme inderogabili, non è concesso copiare, ridistribuire, replicare su
+mirror, ripubblicare, vendere, noleggiare, sublicenziare, modificare, tradurre, creare
+opere derivate, decompilare, disassemblare o effettuare reverse engineering di ACE
+Setup Tool, né rimuoverne gli avvisi legali.
+
+Le versioni binarie ufficiali sono disponibili esclusivamente tramite GitHub Releases
+nel repository ufficiale. La disponibilità gratuita non colloca il Software nel
+pubblico dominio e non lo rende software open source.
+
+Il software di terze parti incluso in ACE Setup Tool resta di proprietà dei rispettivi
+titolari ed è disciplinato dalle proprie licenze. Tali condizioni e le attribuzioni
+richieste sono indicate in THIRD-PARTY-NOTICES.txt e nella cartella third-party. In
+caso di conflitto relativo a un componente di terze parti, prevale la licenza di quel
+componente limitatamente ad esso.
+
+ACE Setup Tool è un progetto indipendente e non ufficiale. Non è affiliato, approvato
+né supportato da Kunos Simulazioni o dall'editore di Assetto Corsa EVO. Nomi di
+prodotti e marchi appartengono ai rispettivi titolari.
+
+L'uso del Software è soggetto alla EULA. Conservare LICENSE.txt, la traduzione
+applicabile, EULA, THIRD-PARTY-NOTICES.txt e la cartella third-party insieme a ogni
+copia consentita del Software.

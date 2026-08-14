@@ -1,0 +1,284 @@
+ACE SETUP TOOL — END-USER LICENCE AGREEMENT (EULA)
+ACE SETUP TOOL — CONTRATTO DI LICENZA CON L'UTENTE FINALE
+
+Version 1 — 2026
+
+The English terms are followed by an Italian translation. Both texts are intended to
+express the same agreement. In case of an unintended discrepancy, the English text
+controls to the extent permitted by applicable law.
+
+============================== ENGLISH ==============================
+
+IMPORTANT: READ THIS AGREEMENT BEFORE INSTALLING OR USING ACE SETUP TOOL.
+BY INSTALLING, COPYING OR USING THE SOFTWARE, YOU ACCEPT THESE TERMS. IF YOU DO NOT
+ACCEPT THEM, DO NOT INSTALL OR USE THE SOFTWARE AND DELETE ALL COPIES.
+
+1. PARTIES AND DEFINITIONS
+
+“Author” or “Licensor” means Adriano Gastaldello, the individual who publishes ACE Setup
+Tool through its official GitHub repository. The Author is an individual, not a company.
+“Software”
+means ACE Setup Tool in binary form, its documentation and any update supplied by the
+Author. “Official Repository” means the GitHub repository identified as official in
+the Software's accompanying documentation.
+
+2. FREE LICENCE GRANT
+
+Subject to this Agreement, the Author grants you a limited, non-exclusive,
+non-transferable, non-sublicensable and revocable licence, free of charge, to install
+and use unmodified official binary copies of the Software on devices you control for
+lawful personal or business purposes. You may make one reasonable backup copy for
+recovery purposes, provided all legal notices remain intact.
+
+The Software is licensed, not sold. No ownership or source-code rights are transferred.
+
+3. RESTRICTIONS
+
+Except with the Author's prior written permission, you may not:
+(a) redistribute, mirror, republish, upload or otherwise make the Software available
+    to third parties, including as part of another product or service;
+(b) sell, rent, lease, lend, sublicense or charge for access to the Software;
+(c) modify, adapt, translate or create derivative works from the Software;
+(d) decompile, disassemble, reverse engineer or otherwise attempt to discover source
+    code, algorithms, protocols or internal structures;
+(e) bypass technical restrictions or use the Software unlawfully; or
+(f) remove or alter copyright, licence, trademark or attribution notices.
+
+These restrictions do not apply to the extent that applicable mandatory law expressly
+gives you a right that cannot be waived by contract. Where such law requires it, you
+must first request the information needed for interoperability from the Author and use
+any permitted information only for that statutory purpose.
+
+4. OFFICIAL DISTRIBUTION AND UPDATES
+
+GitHub Releases in the Official Repository is the only authorised public distribution
+channel. Do not rely on copies obtained from mirrors or unauthorised third parties.
+The Author may change, suspend or discontinue the Software or its availability at any
+time. Updates may add, remove or change functions and may be subject to these terms or
+to replacement terms presented with the update.
+
+5. OWNERSHIP
+
+The Author retains all rights, title and interest in the Software, its design,
+branding and documentation, except for third-party components. All rights not
+expressly granted are reserved. Free availability does not make the Software public
+domain or open source.
+
+6. THIRD-PARTY COMPONENTS
+
+The Software includes components licensed by third parties, including Microsoft and
+other suppliers. Their notices and licence terms are listed in
+THIRD-PARTY-NOTICES.txt and the accompanying third-party directory. Those terms
+control for the relevant third-party components where they grant rights or impose
+requirements that differ from this Agreement.
+
+You receive no right to use Microsoft or any other supplier's names, logos or
+trademarks. To the maximum extent permitted by law, Microsoft and the other suppliers:
+(i) provide their components “AS IS” and without warranties, conditions or support;
+(ii) have no liability to you for claims or damages arising from those components; and
+(iii) are intended third-party beneficiaries of the restrictions and protections in
+this Agreement to the extent their applicable licence terms require. This Agreement
+does not grant rights in any third-party component broader than its own licence allows.
+
+7. USER FILES, DATA AND BACKUPS
+
+The Software processes setup and telemetry files selected or generated on your device
+and stores its settings and local database on that device. You are responsible for
+having backups and for checking results before relying on them. The Software is not a
+backup service. You must not submit confidential or personal data to a public issue or
+support channel unless you intend to make it public.
+
+8. GAME COMPATIBILITY; NO AFFILIATION
+
+The Software is an independent, unofficial utility. It is not affiliated with,
+endorsed by or supported by Kunos Simulazioni or the publisher of Assetto Corsa EVO.
+Product names and trademarks belong to their owners. Game updates may change file
+formats or behaviour and may make the Software inaccurate or incompatible. You are
+responsible for complying with the game's terms and for keeping backups before the
+Software modifies any file.
+
+9. NO WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE, DOCUMENTATION,
+UPDATES AND SUPPORT ARE PROVIDED “AS IS” AND “AS AVAILABLE”, WITH ALL FAULTS AND
+WITHOUT EXPRESS, IMPLIED OR STATUTORY WARRANTIES OR CONDITIONS, INCLUDING
+MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY,
+NON-INFRINGEMENT, AVAILABILITY AND ERROR-FREE OPERATION. THE AUTHOR DOES NOT WARRANT
+LAP TIMES, VEHICLE PERFORMANCE, COMPATIBILITY, DATA PRESERVATION OR CORRECT RESULTS.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR AND THIRD-PARTY
+SUPPLIERS WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+EXEMPLARY OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, SETUPS, TELEMETRY, PROFITS,
+BUSINESS, GOODWILL OR OPPORTUNITY, ARISING FROM OR RELATED TO THE SOFTWARE, EVEN IF
+ADVISED OF THE POSSIBILITY. WHERE LIABILITY CANNOT LAWFULLY BE EXCLUDED, IT IS
+LIMITED ONLY TO THE EXTENT THE APPLICABLE LAW PERMITS.
+
+11. MANDATORY RIGHTS
+
+Nothing in this Agreement excludes or limits rights, remedies, warranties or
+liabilities that applicable law does not allow to be excluded or limited, including
+mandatory consumer rights. Sections 9 and 10 apply only to the extent lawful in your
+jurisdiction.
+
+12. TERM AND TERMINATION
+
+This Agreement continues until terminated. Your licence terminates automatically if
+you materially breach it. On termination you must stop using the Software and delete
+all copies in your possession or control, except copies that applicable law requires
+you to retain. Sections concerning ownership, third-party terms, warranty, liability
+and interpretation survive termination.
+
+13. GENERAL TERMS
+
+If a provision is unenforceable, it will be limited or removed only to the minimum
+extent necessary and the remaining provisions will continue in effect. Failure to
+enforce a provision is not a waiver. You may not assign this Agreement without the
+Author's written permission. This Agreement, LICENSE.txt and the applicable third-party
+terms form the complete agreement concerning the Software and replace prior statements
+on the same subject. No particular court, forum or governing law is selected by this
+Agreement; applicable mandatory rules determine those matters.
+
+14. CONTACT
+
+Use the Issues or contact channel identified in the Official Repository. Do not send
+private telemetry, setup files, logs or personal information through a public issue.
+
+============================== ITALIANO ==============================
+
+IMPORTANTE: LEGGERE PRIMA DI INSTALLARE O USARE ACE SETUP TOOL.
+INSTALLANDO, COPIANDO O USANDO IL SOFTWARE SI ACCETTANO QUESTE CONDIZIONI. SE NON SI
+ACCETTANO, NON INSTALLARE O USARE IL SOFTWARE E CANCELLARNE OGNI COPIA.
+
+1. PARTI E DEFINIZIONI
+
+“Autore” o “Licenziante” indica Adriano Gastaldello, la persona fisica che pubblica ACE
+Setup Tool tramite il relativo repository GitHub ufficiale. L'Autore è una persona
+fisica, non un'azienda.
+“Software” indica ACE Setup Tool in forma binaria, la documentazione e gli aggiornamenti
+forniti dall'Autore. “Repository ufficiale” indica il repository GitHub identificato
+come ufficiale nella documentazione allegata al Software.
+
+2. CONCESSIONE GRATUITA
+
+Nel rispetto del presente contratto, l'Autore concede gratuitamente una licenza
+limitata, non esclusiva, non trasferibile, non sublicenziabile e revocabile per
+installare e usare copie binarie ufficiali e non modificate del Software su dispositivi
+controllati dall'utente, per scopi personali o professionali leciti. È consentita una
+ragionevole copia di backup per ripristino, mantenendo integri tutti gli avvisi legali.
+
+Il Software è concesso in licenza, non venduto. Non viene trasferito alcun diritto di
+proprietà o sul codice sorgente.
+
+3. RESTRIZIONI
+
+Senza previa autorizzazione scritta dell'Autore è vietato:
+(a) ridistribuire, replicare su mirror, ripubblicare, caricare o rendere altrimenti
+    disponibile il Software a terzi, anche come parte di altro prodotto o servizio;
+(b) vendere, noleggiare, concedere in leasing o prestito, sublicenziare o far pagare
+    l'accesso al Software;
+(c) modificare, adattare, tradurre o creare opere derivate dal Software;
+(d) decompilare, disassemblare, effettuare reverse engineering o tentare altrimenti di
+    ricavare codice sorgente, algoritmi, protocolli o strutture interne;
+(e) aggirare restrizioni tecniche o usare il Software illegalmente; oppure
+(f) rimuovere o alterare avvisi di copyright, licenza, marchio o attribuzione.
+
+Le restrizioni non operano nella misura in cui norme inderogabili riconoscano
+espressamente un diritto non rinunciabile per contratto. Quando previsto dalla legge,
+l'utente deve prima chiedere all'Autore le informazioni necessarie all'interoperabilità
+e usare quanto consentito soltanto per tale finalità di legge.
+
+4. DISTRIBUZIONE UFFICIALE E AGGIORNAMENTI
+
+GitHub Releases nel Repository ufficiale è l'unico canale pubblico autorizzato. Non
+fare affidamento su copie provenienti da mirror o terzi non autorizzati. L'Autore può
+modificare, sospendere o interrompere il Software o la sua disponibilità in qualsiasi
+momento. Gli aggiornamenti possono aggiungere, rimuovere o modificare funzioni ed essere
+soggetti a queste condizioni o a condizioni sostitutive presentate con l'aggiornamento.
+
+5. TITOLARITÀ
+
+L'Autore conserva ogni diritto e interesse sul Software, il suo design, i segni
+distintivi e la documentazione, esclusi i componenti di terze parti. Ogni diritto non
+espressamente concesso è riservato. La disponibilità gratuita non rende il Software di
+pubblico dominio né open source.
+
+6. COMPONENTI DI TERZE PARTI
+
+Il Software include componenti concessi in licenza da terzi, inclusi Microsoft e altri
+fornitori. Avvisi e licenze sono elencati in THIRD-PARTY-NOTICES.txt e nella cartella
+third-party allegata. Le rispettive condizioni prevalgono per i componenti interessati
+quando concedono diritti o impongono requisiti diversi dal presente contratto.
+
+Non viene concesso alcun diritto di usare nomi, loghi o marchi di Microsoft o di altri
+fornitori. Nei limiti massimi consentiti dalla legge, Microsoft e gli altri fornitori:
+(i) forniscono i propri componenti “COSÌ COME SONO”, senza garanzie, condizioni o
+assistenza; (ii) non rispondono verso l'utente di pretese o danni derivanti da tali
+componenti; e (iii) sono beneficiari terzi delle restrizioni e tutele del presente
+contratto nella misura richiesta dalle loro licenze. Il contratto non concede diritti
+su componenti terzi più ampi di quelli previsti dalle relative licenze.
+
+7. FILE, DATI E BACKUP DELL'UTENTE
+
+Il Software elabora file di setup e telemetria scelti o generati sul dispositivo e
+salva sul dispositivo impostazioni e database locale. L'utente è responsabile dei
+backup e della verifica dei risultati prima di farvi affidamento. Il Software non è un
+servizio di backup. Non inviare dati riservati o personali in issue o canali di
+assistenza pubblici salvo che si intenda renderli pubblici.
+
+8. COMPATIBILITÀ CON IL GIOCO; NESSUNA AFFILIAZIONE
+
+Il Software è uno strumento indipendente e non ufficiale. Non è affiliato, approvato né
+supportato da Kunos Simulazioni o dall'editore di Assetto Corsa EVO. Nomi e marchi
+appartengono ai rispettivi titolari. Gli aggiornamenti del gioco possono cambiare
+formati o comportamento e rendere il Software inesatto o incompatibile. L'utente è
+responsabile del rispetto delle condizioni del gioco e dei backup prima che il
+Software modifichi un file.
+
+9. ASSENZA DI GARANZIE
+
+NEI LIMITI MASSIMI CONSENTITI DALLA LEGGE, SOFTWARE, DOCUMENTAZIONE, AGGIORNAMENTI E
+ASSISTENZA SONO FORNITI “COSÌ COME SONO” E “COME DISPONIBILI”, CON OGNI DIFETTO E SENZA
+GARANZIE O CONDIZIONI ESPRESSE, IMPLICITE O DI LEGGE, INCLUSE COMMERCIABILITÀ, QUALITÀ,
+IDONEITÀ A UNO SCOPO, ACCURATEZZA, NON VIOLAZIONE, DISPONIBILITÀ E ASSENZA DI ERRORI.
+L'AUTORE NON GARANTISCE TEMPI SUL GIRO, PRESTAZIONI, COMPATIBILITÀ, CONSERVAZIONE DEI
+DATI O CORRETTEZZA DEI RISULTATI.
+
+10. LIMITAZIONE DI RESPONSABILITÀ
+
+NEI LIMITI MASSIMI CONSENTITI DALLA LEGGE, L'AUTORE E I FORNITORI TERZI NON RISPONDONO
+DI DANNI INDIRETTI, INCIDENTALI, SPECIALI, CONSEQUENZIALI, ESEMPLARI O PUNITIVI, NÉ DI
+PERDITA DI DATI, SETUP, TELEMETRIA, PROFITTI, ATTIVITÀ, AVVIAMENTO O OPPORTUNITÀ,
+DERIVANTI DAL SOFTWARE O A ESSO COLLEGATI, ANCHE SE INFORMATI DELLA POSSIBILITÀ. DOVE
+LA RESPONSABILITÀ NON PUÒ ESSERE ESCLUSA, È LIMITATA SOLO NELLA MISURA CONSENTITA DALLA
+LEGGE APPLICABILE.
+
+11. DIRITTI INDEROGABILI
+
+Nulla esclude o limita diritti, rimedi, garanzie o responsabilità che la legge
+applicabile non consente di escludere o limitare, inclusi i diritti inderogabili del
+consumatore. Gli articoli 9 e 10 si applicano soltanto nella misura lecita.
+
+12. DURATA E RISOLUZIONE
+
+Il contratto resta efficace fino alla risoluzione. La licenza termina automaticamente
+in caso di violazione sostanziale. Alla risoluzione occorre cessare l'uso e cancellare
+ogni copia posseduta o controllata, salvo quelle che la legge imponga di conservare.
+Sopravvivono le clausole su titolarità, terze parti, garanzie, responsabilità e
+interpretazione.
+
+13. DISPOSIZIONI GENERALI
+
+Se una disposizione è inefficace, sarà limitata o rimossa nella sola misura necessaria
+e le restanti rimarranno efficaci. La mancata applicazione non costituisce rinuncia.
+Il contratto non può essere ceduto senza consenso scritto dell'Autore. Il presente
+contratto, LICENSE.txt e le condizioni applicabili di terze parti costituiscono
+l'intero accordo sul Software e sostituiscono dichiarazioni precedenti sullo stesso
+oggetto. Non viene scelto uno specifico tribunale, foro o diritto applicabile: tali
+aspetti sono determinati dalle norme inderogabili applicabili.
+
+14. CONTATTI
+
+Usare le Issues o il canale indicato nel Repository ufficiale. Non inviare telemetria,
+setup, log o dati personali tramite un'issue pubblica.

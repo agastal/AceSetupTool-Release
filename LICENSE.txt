@@ -1,0 +1,37 @@
+ACE SETUP TOOL — PROPRIETARY FREEWARE LICENCE NOTICE
+
+Copyright © 2026 Adriano Gastaldello.
+All rights reserved.
+
+In this notice, the “Author” means Adriano Gastaldello, the individual who publishes
+ACE Setup Tool through its official GitHub repository. The Author is not represented as
+a company.
+
+ACE Setup Tool is proprietary freeware. The Author grants end users permission to
+download, install and use unmodified official binary copies free of charge, subject
+to the ACE Setup Tool End-User Licence Agreement (EULA.txt) supplied with the
+Software.
+
+No source code is licensed or distributed. Except where the EULA or mandatory law
+expressly permits it, no permission is granted to copy, redistribute, mirror,
+republish, sell, rent, sublicense, modify, translate, create derivative works from,
+decompile, disassemble or reverse engineer ACE Setup Tool, or to remove its legal
+notices.
+
+Official binary releases are made available exclusively through GitHub Releases in
+the official repository. Availability free of charge does not place the Software in
+the public domain and does not make it open-source software.
+
+Third-party software included with ACE Setup Tool remains the property of its
+respective owners and is governed by its own licence terms. Those terms and required
+attributions are identified in THIRD-PARTY-NOTICES.txt and the accompanying
+third-party directory. If a third-party licence conflicts with this notice as to a
+third-party component, that third-party licence controls for that component only.
+
+ACE Setup Tool is an independent, unofficial project. It is not affiliated with,
+endorsed by or supported by Kunos Simulazioni or the publisher of Assetto Corsa EVO.
+Product names and trademarks belong to their respective owners.
+
+Use of the Software is subject to EULA.txt. Keep LICENSE.txt, EULA.txt,
+THIRD-PARTY-NOTICES.txt and the third-party directory together with every permitted
+copy of the Software.

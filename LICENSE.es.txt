@@ -1,0 +1,42 @@
+ACE SETUP TOOL — AVISO DE LICENCIA DE FREEWARE PROPIETARIO
+TRADUCCIÓN ESPAÑOLA DE CORTESÍA
+
+Esta traducción se proporciona para facilitar la consulta. En caso de discrepancia no
+intencionada, prevalecerá el texto inglés de LICENSE.txt en la medida permitida por la
+legislación aplicable.
+
+Copyright © 2026 Adriano Gastaldello.
+Todos los derechos reservados.
+
+En este aviso, “Autor” designa a Adriano Gastaldello, la persona física que publica ACE
+Setup Tool a través de su repositorio oficial de GitHub. El Autor no se presenta como
+una empresa.
+
+ACE Setup Tool es freeware propietario. El Autor concede a los usuarios finales
+permiso para descargar, instalar y utilizar gratuitamente copias binarias oficiales y
+sin modificar, con sujeción al Contrato de licencia para el usuario final
+(EULA.es.txt) suministrado con el Software.
+
+No se licencia ni distribuye código fuente. Salvo que la EULA o una norma imperativa lo
+permita expresamente, no se concede permiso para copiar, redistribuir, replicar en
+espejos, volver a publicar, vender, alquilar, sublicenciar, modificar, traducir, crear
+obras derivadas, descompilar, desensamblar o realizar ingeniería inversa de ACE Setup
+Tool, ni para eliminar sus avisos legales.
+
+Las versiones binarias oficiales están disponibles exclusivamente mediante GitHub
+Releases en el repositorio oficial. Su disponibilidad gratuita no sitúa el Software en
+el dominio público ni lo convierte en software de código abierto.
+
+El software de terceros incluido en ACE Setup Tool sigue siendo propiedad de sus
+respectivos titulares y se rige por sus propias licencias. Dichas condiciones y las
+atribuciones obligatorias se indican en THIRD-PARTY-NOTICES.txt y en el directorio
+third-party. Si existe un conflicto relativo a un componente de terceros, la licencia
+de ese componente prevalecerá únicamente para dicho componente.
+
+ACE Setup Tool es un proyecto independiente y no oficial. No está afiliado, aprobado
+ni respaldado por Kunos Simulazioni ni por el editor de Assetto Corsa EVO. Los nombres
+de productos y las marcas pertenecen a sus respectivos propietarios.
+
+El uso del Software está sujeto a la EULA. Conserva LICENSE.txt, la traducción
+aplicable, la EULA, THIRD-PARTY-NOTICES.txt y el directorio third-party junto con cada
+copia permitida del Software.

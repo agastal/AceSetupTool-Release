@@ -1,0 +1,123 @@
+ACE SETUP TOOL — THIRD-PARTY SOFTWARE NOTICES
+
+This file identifies third-party software distributed with ACE Setup Tool. Copyright
+and licence terms in the accompanying third-party directory are reproduced for
+compliance and attribution. They apply only to the corresponding third-party
+components and do not make ACE Setup Tool itself open source.
+
+The copies in the third-party directory are an integral part of this notice. Do not
+remove them from an installer, portable archive or other authorised distribution.
+
+Component versions reflect ACE Setup Tool 0.1.0. Regenerate and review this inventory
+whenever dependencies or the bundled runtime change.
+
+----------------------------------------------------------------------
+1. .NET Runtime 10.0.11
+----------------------------------------------------------------------
+Licence: MIT and additional third-party terms.
+Files:
+  third-party/dotnet-runtime-LICENSE.txt
+  third-party/dotnet-runtime-THIRD-PARTY-NOTICES.txt
+
+----------------------------------------------------------------------
+2. Microsoft Windows App SDK 2.3.1
+----------------------------------------------------------------------
+Includes redistributable Windows App Runtime components.
+Licence: Microsoft software licence terms; additional notices apply.
+Files:
+  third-party/windows-app-sdk-LICENSE.txt
+  third-party/windows-app-sdk-NOTICE.txt
+
+----------------------------------------------------------------------
+3. Microsoft Edge WebView2 1.0.3719.77
+----------------------------------------------------------------------
+Licence: Microsoft software licence terms; BSD-style and other notices apply.
+Files:
+  third-party/webview2-LICENSE.txt
+  third-party/webview2-NOTICE.txt
+
+----------------------------------------------------------------------
+4. Microsoft Windows AI / Machine Learning 2.1.74
+----------------------------------------------------------------------
+Includes or identifies components such as ONNX Runtime and DirectML.
+Licence: Microsoft software licence terms and third-party licences.
+Files:
+  third-party/windows-ai-machine-learning-LICENSE.txt
+  third-party/windows-ai-machine-learning-THIRD-PARTY-NOTICES.txt
+
+----------------------------------------------------------------------
+5. System.Numerics.Tensors 9.0.0
+----------------------------------------------------------------------
+Licence: MIT and additional third-party terms.
+Files:
+  third-party/system-numerics-tensors-LICENSE.txt
+  third-party/system-numerics-tensors-THIRD-PARTY-NOTICES.txt
+
+----------------------------------------------------------------------
+6. CommunityToolkit.Mvvm 8.4.2
+----------------------------------------------------------------------
+Copyright .NET Foundation and Contributors.
+Licence: MIT; additional third-party notices apply.
+Files:
+  third-party/communitytoolkit-mvvm-LICENSE.md
+  third-party/communitytoolkit-mvvm-THIRD-PARTY-NOTICES.txt
+
+----------------------------------------------------------------------
+7. ScottPlot 5.1.59
+----------------------------------------------------------------------
+Licence: MIT; additional notices apply.
+Files:
+  third-party/scottplot-LICENSE.txt
+  third-party/scottplot-NOTICES.txt
+
+----------------------------------------------------------------------
+8. SkiaSharp 3.119.0 / SkiaSharp.NativeAssets.Win32 3.119.0
+----------------------------------------------------------------------
+Licence: MIT for the managed wrapper; third-party terms for native components.
+Files:
+  third-party/skiasharp-LICENSE.txt
+  third-party/skiasharp-native-THIRD-PARTY-NOTICES.txt
+
+----------------------------------------------------------------------
+9. HarfBuzzSharp 8.3.1.1 / HarfBuzzSharp.NativeAssets.Win32 8.3.1.1
+----------------------------------------------------------------------
+Licence: MIT for the managed wrapper; third-party terms for native components.
+Files:
+  third-party/harfbuzzsharp-LICENSE.txt
+  third-party/harfbuzzsharp-native-THIRD-PARTY-NOTICES.txt
+
+----------------------------------------------------------------------
+10. Microsoft.Data.Sqlite 10.0.10
+----------------------------------------------------------------------
+Licence: MIT.
+File:
+  third-party/microsoft-data-sqlite-LICENSE.txt
+
+----------------------------------------------------------------------
+11. SQLitePCLRaw 3.0.5
+----------------------------------------------------------------------
+Includes SQLitePCLRaw.core and SQLitePCLRaw.bundle_e_sqlite3.
+Licence: Apache License 2.0.
+File:
+  third-party/sqlitepclraw-APACHE-2.0.txt
+
+----------------------------------------------------------------------
+12. SQLite 3.53.4
+----------------------------------------------------------------------
+SQLite has been dedicated to the public domain. See the packaged statement.
+File:
+  third-party/sqlite-LICENSE.txt
+
+----------------------------------------------------------------------
+NO ENDORSEMENT
+----------------------------------------------------------------------
+The names and trademarks of third-party authors and suppliers may not be used to
+endorse or promote ACE Setup Tool without their prior written permission where such
+permission is required. All trademarks belong to their respective owners.
+
+NO THIRD-PARTY WARRANTY OR SUPPORT
+----------------------------------------------------------------------
+Third-party components are supplied under their respective terms. Their authors and
+suppliers do not provide warranties or support for ACE Setup Tool merely because their
+components are included. Consult the complete accompanying licence files; this index
+is not a substitute for them.

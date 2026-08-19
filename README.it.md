@@ -28,7 +28,9 @@ da mirror o collegamenti indicati da terzi.
 
 - lettura, modifica e backup dei file `.carsetup`;
 - confronto tra setup ed esportazione CSV;
+- esportazione in PDF paginato dei valori correnti del setup;
 - importazione e archivio locale della telemetria MoTeC;
+- confronto animato tra un giro archiviato e un file MoTeC `.ld` esterno;
 - diagnostica su pressioni, temperature, sospensioni, camber e altezza;
 - grafici e mappe del circuito;
 - interfaccia in italiano, inglese e spagnolo;
@@ -104,6 +106,16 @@ riunisce in una tabella passo, costanza e indicatori essenziali di gomme e sospe
 Visualizza acceleratore e freno in percentuale e angolo di sterzo in gradi lungo la
 distanza del giro. La selezione del giro e del riferimento di confronto aiuta a
 individuare punti di frenata, applicazione del gas e correzioni di sterzo.
+
+### Confronto telemetrico animato
+
+<p align="center">
+  <img src="media/09-risultati-telemetria.png" alt="Confronto animato tra un giro del setup e una telemetria MoTeC esterna" width="70%"/>
+</p>
+
+Sovrapponi il giro archiviato del setup a una registrazione MoTeC `.ld` esterna. La
+timeline sincronizza i marcatori delle due auto, velocità, acceleratore e freno; zoom,
+pan e adattamento del circuito aiutano a confrontare traiettorie e azionamenti.
 
 ### Preparazione gara e calcolo della strategia
 

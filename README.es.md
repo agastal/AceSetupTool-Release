@@ -28,7 +28,9 @@ desde espejos ni enlaces de terceros.
 
 - lectura, modificación y copia de seguridad de archivos `.carsetup`;
 - comparación de reglajes y exportación CSV;
+- exportación a PDF paginado de los valores actuales del reglaje;
 - importación de telemetría MoTeC a un archivo local;
+- comparación animada de una vuelta archivada con un archivo MoTeC `.ld` externo;
 - diagnóstico de presiones, temperaturas, suspensión, caída y altura;
 - gráficos y mapas del circuito;
 - interfaz en italiano, inglés y español;
@@ -104,6 +106,16 @@ suspensión. La tabla reúne ritmo, constancia e indicadores esenciales de neum�
 Representa acelerador y freno en porcentaje y el ángulo de dirección en grados a lo
 largo de la distancia de la vuelta. Los selectores de vuelta y referencia facilitan el
 análisis de frenadas, aplicación del acelerador y correcciones de dirección.
+
+### Comparación animada de telemetría
+
+<p align="center">
+  <img src="media/09-risultati-telemetria.png" alt="Comparación animada de una vuelta del reglaje y telemetría MoTeC externa" width="70%"/>
+</p>
+
+Superpone la vuelta archivada del reglaje a una grabación MoTeC `.ld` externa. La línea
+de tiempo sincroniza los marcadores de ambos coches, velocidad, acelerador y freno;
+zoom, desplazamiento y ajuste del circuito facilitan comparar trayectorias y mandos.
 
 ### Preparación de carrera y cálculo de estrategia
 

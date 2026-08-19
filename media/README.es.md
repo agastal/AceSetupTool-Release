@@ -8,7 +8,8 @@ Capturas seleccionadas:
 - `04-confronto.png` — comparación entre dos reglajes;
 - `06-risultati-segnalazioni.png` — avisos de diagnóstico;
 - `07-risultati-grafici.png` — gráficos de telemetría;
-- `08-preparazione.png` — preparación y estado de los datos.
+- `08-preparazione.png` — preparación y estado de los datos;
+- `09-risultati-telemetria.png` — comparación animada con telemetría MoTeC externa.
 
 Marca de aprobación:
 

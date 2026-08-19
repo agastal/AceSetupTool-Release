@@ -8,7 +8,8 @@ Screenshot selezionati:
 - `04-confronto.png` — confronto tra due setup;
 - `06-risultati-segnalazioni.png` — segnalazioni diagnostiche;
 - `07-risultati-grafici.png` — grafici della telemetria;
-- `08-preparazione.png` — preparazione e stato dei dati.
+- `08-preparazione.png` — preparazione e stato dei dati;
+- `09-risultati-telemetria.png` — confronto animato con telemetria MoTeC esterna.
 
 Marchio di approvazione:
 

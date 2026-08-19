@@ -27,7 +27,9 @@ from mirrors or third-party links.
 
 - read, edit and back up `.carsetup` files;
 - compare setups and export CSV files;
+- export the current setup values to a paginated PDF;
 - import MoTeC telemetry into a local archive;
+- compare an archived lap with an external MoTeC `.ld` file using animated trajectories;
 - diagnose tyre pressures, temperatures, suspension, camber and ride height;
 - display charts and track maps;
 - Italian, English and Spanish interface;
@@ -103,6 +105,16 @@ consistency and key tyre and suspension indicators easy to compare.
 Plot throttle and brake percentages together with steering angle over lap distance.
 Lap and comparison selectors make it easier to examine braking points, throttle
 application and steering corrections at the same position on the circuit.
+
+### Animated telemetry comparison
+
+<p align="center">
+  <img src="media/09-risultati-telemetria.png" alt="Animated comparison of an archived setup lap and external MoTeC telemetry" width="70%"/>
+</p>
+
+Overlay a lap stored for the selected setup with an external MoTeC `.ld` recording.
+Playback keeps both car markers, speed, throttle and brake in sync; zoom, pan and fit
+controls make trajectory and input differences easier to inspect.
 
 ### Race preparation and strategy calculation
 

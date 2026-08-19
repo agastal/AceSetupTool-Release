@@ -8,7 +8,8 @@ Selected screenshots:
 - `04-confronto.png` — comparison between two setups;
 - `06-risultati-segnalazioni.png` — diagnostic findings;
 - `07-risultati-grafici.png` — telemetry charts;
-- `08-preparazione.png` — data preparation and status.
+- `08-preparazione.png` — data preparation and status;
+- `09-risultati-telemetria.png` — animated comparison with external MoTeC telemetry.
 
 Approval mark:
 
